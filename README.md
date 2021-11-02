@@ -1,4 +1,4 @@
-# QClockTwo for Conky
+# QClockTwo for Conky [in Portuguese Caralho]
 
 No credit to me for creating the original artwork or Conky theme.  Original artwork created by [mowgli-writes on DeviantArt](https://www.deviantart.com/mowgli-writes/art/qlocktwo-conky-470067388).
 
@@ -19,8 +19,6 @@ I'm on Pop OS (Ubuntu variant) with the K Desktop Environment (KDE), although th
   - Open the `qclocktwo` file in this repo, making sure you open the **raw** version
   - **or** download the entire repository using the GitHub download option:
 
-    ![Download repository](./download.png)
-
 - Copy/move/save the `qclocktwo` file as `.conkyrc` in your user's home directory i.e. `~/.conkyrc`
 - Open a terminal and run Conky:
 
@@ -31,8 +29,6 @@ I'm on Pop OS (Ubuntu variant) with the K Desktop Environment (KDE), although th
   (the `&` runs Conky as a background process)
 
 - Conky should run, with the `qclocktwo` theme displayed at the top left of your screen
-
-  ![Screenshot](./screenshot.png)
 
 - If you want to change the position of the `qclocktwo` widget, edit `~/.conkyrc` and look for the following settings:
 
